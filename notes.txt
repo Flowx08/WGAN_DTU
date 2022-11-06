@@ -1,0 +1,5 @@
+SSH tunneling:
+    ssh username@xx.xx.xx.xx -NL 1234:localhost:1234
+
+Run jupyter notebook server remote
+    jupyter notebook --no-browser --port=22222 --ip=$HOSTNAME
