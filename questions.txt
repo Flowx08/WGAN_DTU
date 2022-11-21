@@ -6,3 +6,7 @@
 
 - Do the report need to follow a specific layout? And is it correct that the deadline for handin is in january?
 
+- Can you help with spectral normalization? would it make our samples better?
+
+
+
