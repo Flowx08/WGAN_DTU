@@ -1,1 +1,8 @@
-test
+- What are we supposed to put on the poster? Anything specific you would like us to include?
+
+- We are having difficulties with generating good samples from the CIFAR-10 dataset. How good do you expect us to generate from this dataset?
+
+- Is it normal to spend 8-10 hours for training on the CIFAR-10 dataset?
+
+- Do the report need to follow a specific layout? And is it correct that the deadline for handin is in january?
+
