@@ -1,0 +1,43 @@
+- What are we supposed to put on the poster? Anything specific you would like us to include?
+Answer: 
+A little bit of theory, like showing main formulas. 
+Avoid text. 
+Show plots, images foumluas etc. 
+Maybe a plot of the FID score. 
+We can also do this: compare 3 GANS vs 3 Datasets (so 9 plots in total) and show FID score for them all. 
+
+
+
+
+
+- We are having difficulties with generating good samples from the CIFAR-10 dataset. How good do you expect us to generate from this dataset?
+Answer: We don't need perfect results.
+
+
+
+
+- Is it normal to spend 8-10 hours for training on the CIFAR-10 dataset?
+Answer: It is normal, but he has a list of things to do to make the time go down. 
+
+
+
+- Do the report need to follow a specific layout? And is it correct that the deadline for handin is in january?
+Answer:
+Add abstract
+Introduction of GAN and WGAN
+(Maybe) a section where we show what work has been made before and the challenges they faced
+Experiment
+Conclusion
+
+
+
+- Can you help with spectral normalization? would it make our samples better?
+Answer:
+wrap around linear and conv layers
+We can aso use certain types of activbation functions like relu
+Leaky relu is maybe not possible
+put spectral norm around each layer. meaning we need to write it multiple times.
+
+
+
+
